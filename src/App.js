@@ -16,7 +16,7 @@ const App = () => {
   return (
     <ThemeProvider theme={theme}>
       <React.Suspense fallback={<></>}>
-        <BrowserRouter>
+        <BrowserRouter basename="online-book-store">
           <AuthWrapper>
             <CartWrapper>
               <div className="loader-wrapper">
