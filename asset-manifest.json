@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/shivmodi1203/online-book-stroe/static/css/main.dea11709.css",
-    "main.js": "/shivmodi1203/online-book-stroe/static/js/main.1e43781d.js",
-    "static/js/787.08f3454f.chunk.js": "/shivmodi1203/online-book-stroe/static/js/787.08f3454f.chunk.js",
-    "static/media/loader.gif": "/shivmodi1203/online-book-stroe/static/media/loader.7b9e6209b10d106cdb0a.gif",
-    "static/media/site-logo.svg": "/shivmodi1203/online-book-stroe/static/media/site-logo.005b78aa01d0b4eadda3fa91c02202c5.svg",
-    "index.html": "/shivmodi1203/online-book-stroe/index.html",
-    "main.dea11709.css.map": "/shivmodi1203/online-book-stroe/static/css/main.dea11709.css.map",
-    "main.1e43781d.js.map": "/shivmodi1203/online-book-stroe/static/js/main.1e43781d.js.map",
-    "787.08f3454f.chunk.js.map": "/shivmodi1203/online-book-stroe/static/js/787.08f3454f.chunk.js.map"
+    "main.css": "/online-book-stroe/static/css/main.dea11709.css",
+    "main.js": "/online-book-stroe/static/js/main.b7a3b63e.js",
+    "static/js/787.08f3454f.chunk.js": "/online-book-stroe/static/js/787.08f3454f.chunk.js",
+    "static/media/loader.gif": "/online-book-stroe/static/media/loader.7b9e6209b10d106cdb0a.gif",
+    "static/media/site-logo.svg": "/online-book-stroe/static/media/site-logo.005b78aa01d0b4eadda3fa91c02202c5.svg",
+    "index.html": "/online-book-stroe/index.html",
+    "main.dea11709.css.map": "/online-book-stroe/static/css/main.dea11709.css.map",
+    "main.b7a3b63e.js.map": "/online-book-stroe/static/js/main.b7a3b63e.js.map",
+    "787.08f3454f.chunk.js.map": "/online-book-stroe/static/js/787.08f3454f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dea11709.css",
-    "static/js/main.1e43781d.js"
+    "static/js/main.b7a3b63e.js"
   ]
 }
